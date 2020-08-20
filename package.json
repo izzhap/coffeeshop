@@ -12,7 +12,7 @@
     "@react-native-community/masked-view": "0.1.6",
     "@react-navigation/material-top-tabs": "^5.1.10",
     "axios": "^0.19.2",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "expo": "~37.0.3",
     "expo-file-system": "^8.1.0",
     "expo-font": "~8.1.0",
